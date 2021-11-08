@@ -13,7 +13,7 @@ We´ll provide short videos of how to use Terras network.
   
 ## Team
 
-CAPAPULT
+MOONWALK
 
 | Name                | Role          | Description                    |
 | ---------------     | -----------   | -------------------------------|
