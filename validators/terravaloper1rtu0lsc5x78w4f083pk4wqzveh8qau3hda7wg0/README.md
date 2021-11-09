@@ -1,7 +1,6 @@
 
 ---
 Moniker: Moonwalk
-Validator: terra1jaeca6lv7hn6r76ed770vzamhx09956x73v87s
 Email: linusrogerblixt@gmail.com
 Telegram: @linusblixt
 ---
